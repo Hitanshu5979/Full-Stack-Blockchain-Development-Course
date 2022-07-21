@@ -1,0 +1,8 @@
+/* Comment and Uncomment various CSS attributes to see changes */
+/* p {
+    font-size: 70px;
+} */
+
+p{
+    font-size: 50px; /*Only used in p tag*/
+}
